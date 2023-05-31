@@ -1,6 +1,6 @@
 # How to list all the ACL papers and find the papers that interest your research topic at once?
 
-## Step 1: Go to ACL Antology
+### Step 1: Go to ACL Antology
 https://aclanthology.org/
 
 ## Step 2: Download Full ACL Bilology with Abstract. You can see it in your leftmost side
